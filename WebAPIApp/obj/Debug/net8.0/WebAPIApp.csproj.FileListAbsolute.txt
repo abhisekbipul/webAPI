@@ -73,3 +73,4 @@ C:\Users\LENOVO\Source\Repos\WebAPIApp\WebAPIApp\obj\Debug\net8.0\refint\WebAPIA
 C:\Users\LENOVO\Source\Repos\WebAPIApp\WebAPIApp\obj\Debug\net8.0\WebAPIApp.pdb
 C:\Users\LENOVO\Source\Repos\WebAPIApp\WebAPIApp\obj\Debug\net8.0\WebAPIApp.genruntimeconfig.cache
 C:\Users\LENOVO\Source\Repos\WebAPIApp\WebAPIApp\obj\Debug\net8.0\ref\WebAPIApp.dll
+C:\Users\LENOVO\Source\Repos\WebAPIApp\WebAPIApp\obj\Debug\net8.0\WebAPIApp.sourcelink.json
